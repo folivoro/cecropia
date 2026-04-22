@@ -1,0 +1,20 @@
+{
+    "name": "folivoro/cecropia",
+    "description": "Cecropia is a mu-pugin used to bootsrap sloth framework in standalone folivoro projects",
+    "type": "wordpress-muplugin",
+    "require": {
+        "acato-plugins/wp-muplugin-loader": "^1.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Kremer",
+            "email": "ben@folivoro.com"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "acato-plugins/wp-muplugin-loader": true
+        }
+    }
+}

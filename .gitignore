@@ -1,0 +1,14 @@
+/vendor/
+composer.lock
+/.idea
+.DS_Store
+node_modules
+.sass-cache
+*.log
+/.vagrant
+/.php-cs-fixer.cache
+REFACTOR.md
+/docs/api/
+/build/
+/.phpunit.cache/
+.php-cs-fixer.cache
