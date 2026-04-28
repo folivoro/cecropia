@@ -8,6 +8,7 @@
 
 use Sloth\Core\Application;
 
-add_action('after_setup_theme', function (): void {
-    Application::configure()->boot();
-}, 0);
+/**
+ * Configure and boot the sloth application container
+ */
+Application::configure()->boot();
