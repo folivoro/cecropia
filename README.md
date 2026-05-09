@@ -11,7 +11,7 @@
 
 # Cecropia mu-plugin for WordPrss
 
-Cecropia is a mu-pugin used to bootsrap sloth framework in standalone folivoro projects. Please refer to [the docs](https://folovioro.com/docs/) for more informtion.
+Cecropia is a mu-pugin used to bootsrap sloth framework in standalone folivoro projects. Please refer to [the docs](https://folivoro.com/) for more informtion.
 
 ## License
 MIT
